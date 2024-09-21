@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 😏👋🏻
 
-<!--
-**vittoriocasula/vittoriocasula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+- 🌱 Currently working on my final thesis on Key Information Extraction from Invoices
+- 👯 Student at University of Florence - Master of Artificial Intelligence Engineering at University of Florence
+- 🎓 Bachelor's degree in Computer Engineering at University of Florence
+- ⚡ Fun fact: If you are a student please do not steal my code for your exams. Suffer as I have suffered 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# How to reach me
+
+- 📧 Write me an email: vittoriocasula@gmail.com
+- 📧 Write me on [Linkedin](https://www.linkedin.com/in/vittoriocasula)
